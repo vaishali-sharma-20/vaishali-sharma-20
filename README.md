@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vaishali-sharma-20
 - 👀 I’m interested in software Engineering And Web Development
-- 🌱 I’m currently learning DAta Structures And Algorithms using C++
+- 🌱 I’m currently learning Data Structures And Algorithms using C++
 - 📫 How to reach me sharma1283232@gmail.com
 
 <!---

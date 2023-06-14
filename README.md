@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @vaishali-sharma-20
 - 👀 I’m interested in software Developer And Web Development
-- 🌱 I’m currently learning Data Structures And Algorithms using C++
+- 🌱 I’m currently learning Data Structures And Algorithms using Java.
+- ✨ Codechef Profile https://www.codechef.com/users/vishu_2650
 - 📫 How to reach me vaishali.sharma.2174@gmail.com
 
 <!---

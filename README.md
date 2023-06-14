@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vaishali-sharma-20
 - 👀 I’m interested in software Developer And Web Development
 - 🌱 I’m currently learning Data Structures And Algorithms using C++
-- 📫 How to reach me sharma1283232@gmail.com
+- 📫 How to reach me vaishali.sharma.2174@gmail.com
 
 <!---
 vaishali-sharma-20/vaishali-sharma-20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -20,7 +20,7 @@ I have 6 months of experience as a Business analyst intern in the tech industry,
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishali-sharma-20&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="vaishali-sharma-20's GitHub Stats" /></p>
 
 ## Education
-- Master's in Computer Application, Computer Application  
+- Masters in Computer Application 
   - Devi Ahilya Vishvidhyalaya, 2025 
   - Relevant Coursework: Data Structures and Algorithms, Database Systems, Web Development, Management, UI/UX Design
 ## Experience

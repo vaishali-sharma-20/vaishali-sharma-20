@@ -16,8 +16,8 @@ I have 6 months of experience as a Business analyst intern in the tech industry,
 
 ## Github Stats
 <p width="auto"><img src="https://github-readme-stats.vercel.app/api?username=vaishali-sharma-20&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="vaishali-sharma-20's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishali-sharma-20&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="vaishali-sharma-20's GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishali-sharma-20&theme=dark&hide_border=true" alt="vaishali-sharma-20's GitHub Stats" /></p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishali-sharma-20&theme=dark&hide_border=true" alt="vaishali-sharma-20's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishali-sharma-20&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="vaishali-sharma-20's GitHub Stats" /></p>
 
 ## Education
 - Master's in Computer Application, Computer Application  

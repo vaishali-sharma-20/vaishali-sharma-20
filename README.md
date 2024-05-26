@@ -15,10 +15,10 @@ I have 6 months of experience as a Business analyst intern in the tech industry,
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ## Github Stats
-<p style "width:auto; align:centre;"><img src="https://github-readme-stats.vercel.app/api?username=vaishali-sharma-20&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="vaishali-sharma-20's GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishali-sharma-20&theme=dark&hide_border=true" alt="vaishali-sharma-20's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishali-sharma-20&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="vaishali-sharma-20's GitHub Stats" /></p>
-
+<p style "width:auto; align:centre;"><img src="https://github-readme-stats.vercel.app/api?username=vaishali-sharma-20&theme=default&show_icons=true&hide_border=true&count_private=true" alt="vaishali-sharma-20's GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishali-sharma-20&theme=default&hide_border=true" alt="vaishali-sharma-20's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishali-sharma-20&theme=default&show_icons=true&hide_border=true&layout=compact" alt="vaishali-sharma-20's GitHub Stats" />
+  
 ## Education
 - Masters in Computer Application 
   - Devi Ahilya Vishvidhyalaya, 2025 

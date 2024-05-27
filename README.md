@@ -16,7 +16,8 @@ I have 6 months of experience as a Business analyst intern in the tech industry,
 
 ## Github Stats
 ![vaishali-sharma-20's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vaishali-sharma-20&theme=default&hide_border=false)
-  
+![vaishali-sharma-20's Stats](https://github-readme-stats.vercel.app/api?username=vaishali-sharma-20&theme=default&show_icons=true&hide_border=false&count_private=true)
+![vaishali-sharma-20's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishali-sharma-20&theme=default&show_icons=true&hide_border=false&layout=compact)
 ## Education
 - Masters in Computer Application 
   - Devi Ahilya Vishvidhyalaya, 2025 

@@ -53,6 +53,10 @@ Outside of work, I enjoy dancing, photography, painting, singing, and reading. T
 - GitHub: https://github.com/vaishali-sharma-20
 - Personal Website: https://sites.google.com/view/vaishali-sharma/home
 - Codechef: https://www.codechef.com/users/vishu_2650
+ 
+## GSSoC'24 Badges
+<a href="https://gssoc.girlscript.tech/" target="_blank"><img src="https://gssoc.girlscript.tech/badges/1.png?imwidth=256" width="100px" height="100px"></a>
+
 
 Please feel free to contact me if you have any questions or collaboration opportunities.
 ##
